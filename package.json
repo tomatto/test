@@ -1,0 +1,23 @@
+{
+  "name": "test-pro",
+  "version": "1.0.0",
+  "description": "test pro desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomatto/test.git"
+  },
+  "keywords": [
+    "test",
+    "site"
+  ],
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomatto/test/issues"
+  },
+  "homepage": "https://github.com/tomatto/test#readme"
+}
