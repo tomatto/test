@@ -1,5 +1,4 @@
 
-.idea/modules.xml
-.idea/preferred-vcs.xml
-.idea/test.iml
-.idea/workspace.xml
+.idea
+node_modules
+public/bundle.js
